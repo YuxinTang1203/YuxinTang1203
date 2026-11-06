@@ -1,16 +1,23 @@
-## Hi there 👋
+# Yuxin Tang
 
-<!--
-**YuxinTang1203/YuxinTang1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graduate Student | The Hong Kong University of Science and Technology (Guangzhou)**
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a graduate student at the Hong Kong University of Science and Technology (Guangzhou).
+
+My research interests include:
+
+- Embodied AI and Robotic Manipulation
+- Vision-Language Navigation
+- Computer Vision
+- Multimodal Image Fusion
+
+## Affiliation
+
+The Hong Kong University of Science and Technology (Guangzhou)  
+HKUST(GZ)
+
+## Contact
+
+- **Email:** [ytang740@connect.hkust-gz.edu.cn](mailto:ytang740@connect.hkust-gz.edu.cn)

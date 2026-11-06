@@ -9,9 +9,7 @@ I am a graduate student at the Hong Kong University of Science and Technology (G
 My research interests include:
 
 - Embodied AI and Robotic Manipulation
-- Vision-Language Navigation
 - Computer Vision
-- Multimodal Image Fusion
 
 ## Affiliation
 
